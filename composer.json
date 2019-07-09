@@ -1,0 +1,14 @@
+ {
+        "name": "Discuss/Contactform",
+        "description": "A contact form package for laravel",
+        "authors": [{
+            "name": "Rv Patel",
+            "email": "admin@email.com"
+        }],
+        "require": {},
+        "autoload": {
+            "psr-4": {
+                "Discuss\\contactform\\": "src/"
+            }
+        }
+    }
